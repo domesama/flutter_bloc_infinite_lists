@@ -1,4 +1,4 @@
-# crytocurrecy_with_bloc
+# cryptocurrecy_with_bloc
 
 A new Flutter project.
 
