@@ -1,4 +1,4 @@
-# cryptocurrecy_with_bloc
+# infinite_list_with_bloc
 
 Basic uses of flutter_bloc with some integration of http requests to call API from "cryptocompare"
 
