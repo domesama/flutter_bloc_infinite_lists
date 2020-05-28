@@ -1,6 +1,6 @@
 # cryptocurrecy_with_bloc
 
-Basic uses of flutter_bloc with some integration of http requests to call API from "cryptocopare"
+Basic uses of flutter_bloc with some integration of http requests to call API from "cryptocompare"
 
 ## Getting Started
 
