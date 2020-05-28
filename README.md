@@ -1,6 +1,6 @@
 # cryptocurrecy_with_bloc
 
-A new Flutter project.
+Basic uses of flutter_bloc with some integration of http requests to call API from "cryptocopare"
 
 ## Getting Started
 
